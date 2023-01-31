@@ -1,0 +1,9 @@
+# VSCODE
+.vscode
+
+# PYTHON
+__pycache__
+
+# LOCAL DATA
+data
+logs
